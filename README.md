@@ -1,4 +1,9 @@
-# C
+C
+========
+
+## LeetCode Algorithm
+
+- [Solution](https://github.com/TheAlgorithms/C/tree/master/leetcode) for [LeetCode](https://leetcode.com/problemset/all/)
 
 ## Computer Oriented Statistical Methods
 	- Gauss_Elimination
@@ -21,26 +26,37 @@
 	- stack
 	- queue
 	- dictionary
-	linked_list
+	- linked_list
 		- singly_link_list_deletion
 		- stack_using_linkedlists
-	binary_trees
+	- binary_trees
 		- create_node
 		- recursive_traversals
-	trie
+	- trie
 		- trie
 
 
 ## Searching
+	- Linear_Search
 	- Binary_Search
 	- Other_Binary_Search
 	- Jump_Search
+	- Fibonacci_Search
+	- Interpolation_Search
+	- Modified_Binary_Search
 
 
 ## Sorting
 	- BinaryInsertionSort
 	- BubbleSort
+	- BucketSort
 	- BogoSort
+	- comb_sort
+	- CountingSort
+	- gnome_sort
+	- PartitionSort
+	- ShellSort
+	- RadixSort
 	- InsertionSort
 	- MergeSort
 	- OtherBubbleSort
@@ -48,7 +64,7 @@
 	- SelectionSort
 	- ShakerSort
 	- HeapSort
-	
+
 ## Hashing
 	- sdbm
 	- djb2
@@ -70,6 +86,15 @@
 	- Greatest Common Divisor
 	- Sudoku Solver
 	- prime factorization
+
+## Project Euler
+	- Problem 1
+	- Problem 2
+	- Problem 3
+	- Problem 4
+	- Problem 5
+	- Problem 6
+	- Problem 7
 
 
 ## exercism
